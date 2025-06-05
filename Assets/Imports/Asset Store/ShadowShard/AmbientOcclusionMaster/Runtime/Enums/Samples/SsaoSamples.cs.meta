@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 87861692355142c4a8e422317e10a399
+timeCreated: 1728161844
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/Enums/Samples/SsaoSamples.cs
+  uploadId: 750194

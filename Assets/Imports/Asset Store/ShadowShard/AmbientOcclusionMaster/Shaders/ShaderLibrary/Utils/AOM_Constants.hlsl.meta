@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69edb57be7b9a2c46b0f16a70bd7e7e9
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/Utils/AOM_Constants.hlsl
+  uploadId: 750194

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 28cf00815e2a133478ecfbc8c6c291db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/AOM_SampleScene/AOM_SampleScene
+    Baking Set.asset
+  uploadId: 750194

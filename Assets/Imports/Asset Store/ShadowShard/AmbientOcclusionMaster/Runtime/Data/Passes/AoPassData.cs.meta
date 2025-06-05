@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1644a27345b34d69a5b980166ddc9a89
+timeCreated: 1729008816
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/Data/Passes/AoPassData.cs
+  uploadId: 750194

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 51c5985fcb55439ab54642a6bf9d1014
+timeCreated: 1728063825
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/SSAO/SsaoParameters.hlsl
+  uploadId: 750194

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fa921c73114444b89335092dd9fd9147
+timeCreated: 1728064090
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/Utils/AOM_Samplers.hlsl
+  uploadId: 750194

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 250c0ac581783aa4d8e09918dfabe769
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/Models/RoomShowcaseModel.prefab
+  uploadId: 750194

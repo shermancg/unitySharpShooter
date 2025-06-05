@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4ebd9140b5fc4a339a4bb4d4e0eb7c19
+timeCreated: 1729243326
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/HDAO/HDAO.hlsl
+  uploadId: 750194

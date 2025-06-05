@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 70fed37e00907764ea375525470b3da2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/Enums/NoiseMethod.cs
+  uploadId: 750194

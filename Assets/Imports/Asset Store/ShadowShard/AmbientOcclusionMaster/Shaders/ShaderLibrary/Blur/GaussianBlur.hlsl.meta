@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 739418201e8704548b7e0272865431d9
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/Blur/GaussianBlur.hlsl
+  uploadId: 750194

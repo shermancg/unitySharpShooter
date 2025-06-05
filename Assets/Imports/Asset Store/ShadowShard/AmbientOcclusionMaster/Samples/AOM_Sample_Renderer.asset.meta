@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f6464a58ef63da4b9f9c588991e9a35
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/AOM_Sample_Renderer.asset
+  uploadId: 750194

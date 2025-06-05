@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d06a82b2a34980478379c8390530e21
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/HBAO/HBAO.hlsl
+  uploadId: 750194

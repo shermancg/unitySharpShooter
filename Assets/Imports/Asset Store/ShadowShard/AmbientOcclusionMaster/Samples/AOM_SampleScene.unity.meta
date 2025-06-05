@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 746ef8053118aed438942abdccbaca3c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/AOM_SampleScene.unity
+  uploadId: 750194

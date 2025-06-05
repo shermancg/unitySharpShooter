@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d3edf2f57b7543a8aabcdc1d2dc7143f
+timeCreated: 1729120044
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Editor/AomWarnings.cs
+  uploadId: 750194

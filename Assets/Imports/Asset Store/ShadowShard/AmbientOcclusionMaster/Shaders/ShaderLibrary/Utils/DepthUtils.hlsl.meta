@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a0903ff333fefaa42ae5ca458bdbcfd2
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/Utils/DepthUtils.hlsl
+  uploadId: 750194

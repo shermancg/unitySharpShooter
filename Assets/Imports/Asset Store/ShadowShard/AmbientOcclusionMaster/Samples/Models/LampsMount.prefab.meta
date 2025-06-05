@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9eaca64b5c7ff944891b6d9ad3d88fef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/Models/LampsMount.prefab
+  uploadId: 750194

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e101989ddfa32f94f88cef094994a6b9
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/Enums/BlurQuality.cs
+  uploadId: 750194

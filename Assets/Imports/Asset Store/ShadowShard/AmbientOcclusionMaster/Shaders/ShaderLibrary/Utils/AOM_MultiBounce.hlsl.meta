@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 097c3b39788e4c149484433fe90af9c5
+timeCreated: 1739714516
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/Utils/AOM_MultiBounce.hlsl
+  uploadId: 750194

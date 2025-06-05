@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a22708db7fa40d4d8b6d3ed8cbe764d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/ShadowShardAmbientOcclusionMaster.Runtime.asmdef
+  uploadId: 750194

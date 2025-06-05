@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 48c7661d3e50404b85d9479f0d8f20e9
+timeCreated: 1728161702
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/Data/Parameters/SsaoMaterialParameters.cs
+  uploadId: 750194

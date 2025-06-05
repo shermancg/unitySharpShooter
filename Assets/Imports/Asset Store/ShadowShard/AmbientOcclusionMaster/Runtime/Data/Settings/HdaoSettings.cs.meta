@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d5925a94ea1846e9925353d4272295aa
+timeCreated: 1729245022
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/Data/Settings/HdaoSettings.cs
+  uploadId: 750194

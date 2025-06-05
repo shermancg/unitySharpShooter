@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f08ffb6c1e7a8604182a6b5d186db394
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/AOM_SampleScene/LightingData.asset
+  uploadId: 750194

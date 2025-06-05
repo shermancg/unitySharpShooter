@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b7fd50ef584545ef93380b28ecde5401
+timeCreated: 1728391722
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/Data/Settings/GtaoSettings.cs
+  uploadId: 750194

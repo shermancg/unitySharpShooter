@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9f5369b1946ca0c4e9a9432ddc6a3ba2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/Data/AmbientOcclusionKeywords.cs
+  uploadId: 750194

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ae47fd2fa26d204f925937dd6ac350e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/Materials/LightLamp.mat
+  uploadId: 750194

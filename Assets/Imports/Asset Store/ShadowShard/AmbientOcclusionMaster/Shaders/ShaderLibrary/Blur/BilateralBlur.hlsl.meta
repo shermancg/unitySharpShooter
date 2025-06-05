@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6596729852f8ecc448eb046a47af8f56
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/Blur/BilateralBlur.hlsl
+  uploadId: 750194

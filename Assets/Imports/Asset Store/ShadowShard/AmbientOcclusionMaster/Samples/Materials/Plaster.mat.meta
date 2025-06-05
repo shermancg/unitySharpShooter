@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0abd8c6154767054c944d8ae306f1a59
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/Materials/Plaster.mat
+  uploadId: 750194

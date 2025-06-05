@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdaae1f4b32aada418af03d5ff2823e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/Materials/GreenConcrete.mat
+  uploadId: 750194

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8bf378b1001e4bd9ac51ccef8700c3ad
+timeCreated: 1728314393
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/Utils/AOM_Noises.hlsl
+  uploadId: 750194

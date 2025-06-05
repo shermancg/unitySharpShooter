@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b63b4896e13304f4292a444f6cad4751
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/AmbientOcclusionMaster.shader
+  uploadId: 750194

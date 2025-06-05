@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 46ed0a6756284018a998ab17d2d33dd9
+timeCreated: 1728387629
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/GTAO/GtaoParameters.hlsl
+  uploadId: 750194

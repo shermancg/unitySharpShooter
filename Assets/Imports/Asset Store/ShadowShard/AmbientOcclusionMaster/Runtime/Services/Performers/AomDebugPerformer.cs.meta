@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 06e48cdd10d34c86a3d1b262f908ea6f
+timeCreated: 1729036785
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Runtime/Services/Performers/AomDebugPerformer.cs
+  uploadId: 750194

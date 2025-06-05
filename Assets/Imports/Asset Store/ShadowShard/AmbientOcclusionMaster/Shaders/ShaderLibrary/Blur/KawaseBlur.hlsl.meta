@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d1b861ead61e4848b16ee30123279dc
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/Blur/KawaseBlur.hlsl
+  uploadId: 750194

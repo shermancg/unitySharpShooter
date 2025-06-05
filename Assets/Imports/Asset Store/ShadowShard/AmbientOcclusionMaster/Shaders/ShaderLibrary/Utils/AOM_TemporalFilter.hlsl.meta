@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 059b05480e294dd2b14736a1d981dc1f
+timeCreated: 1737133271
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Shaders/ShaderLibrary/Utils/AOM_TemporalFilter.hlsl
+  uploadId: 750194

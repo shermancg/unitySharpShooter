@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91b2db40cf332e14f9ef1a034ca36e42
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298353
+  packageName: URP Ambient Occlusion Master
+  packageVersion: 1.2
+  assetPath: Assets/ShadowShard/AmbientOcclusionMaster/Samples/Models/ShaderBall.prefab
+  uploadId: 750194
