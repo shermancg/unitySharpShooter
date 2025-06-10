@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6751c6668ce8047e5bcc50f8586c1fe7, type: 3}
+  m_Name: New Umbra Profile
+  m_EditorClassIdentifier: 
+  shadowSource: 1
+  sampleCount: 16
+  earlyOutSamples: 32
+  lightSize: 32
+  enableContactHardening: 1
+  contactStrength: 1
+  contactStrengthKnee: 0.0001
+  distantSpread: 1
+  occludersCount: 8
+  occludersSearchRadius: 8
+  blurIterations: 0
+  blurType: 30
+  blurSpread: 1
+  blurEdgeSharpness: 1
+  blurEdgeTolerance: 5
+  blurDepthAttenStart: 75
+  blurDepthAttenLength: 50
+  blurGrazingAttenuation: 0
+  blendCascades: 0
+  posterization: 1
+  cascade1BlendingStrength: 0.1
+  cascade2BlendingStrength: 0.1
+  cascade3BlendingStrength: 0.1
+  cascade1Scale: 1
+  cascade2Scale: 1
+  cascade3Scale: 1
+  cascade4Scale: 1
+  normalsSource: 0
+  loopStepOptimization: 0
+  frameSkipOptimization: 0
+  skipFrameMaxCameraDisplacement: 0.1
+  skipFrameMaxCameraRotation: 5
+  downsample: 0
+  preserveEdges: 1
+  style: 0
+  maskTexture: {fileID: 0}
+  maskScale: 1
+  contactShadows: 0
+  contactShadowsIntensityMultiplier: 1
+  contactShadowsInjectionPoint: 0
+  contactShadowsSampleCount: 21
+  contactShadowsStepping: 0.01
+  contactShadowsThicknessNear: 0.5
+  contactShadowsThicknessDistanceMultiplier: 0
+  contactShadowsJitter: 0.3
+  contactShadowsDistanceFade: 0
+  contactShadowsStartDistance: 0
+  contactShadowsStartDistanceFade: 0.01
+  contactShadowsNormalBias: 0.1
+  contactShadowsVignetteSize: 0.15
+  contactShadowsBias: 0.001
+  contactShadowsBiasFar: 0.4
+  contactShadowsEdgeSoftness: 0.1
+  contactShadowsSoftEdges: 0
+  contactShadowsPlanarShadows: 0
+  overlayShadows: 0
+  overlayShadowsIntensity: 0.5
+  overlayShadowsColor: {r: 0, g: 0, b: 0, a: 1}
+  transparentReceiverPlane: 0
+  receiverPlaneAltitude: 0

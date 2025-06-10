@@ -16,7 +16,7 @@ public class Robot : MonoBehaviour
 
     void Start()
     {
-        player = FindObjectOfType<FirstPersonController>();
+        player = FindFirstObjectByType<FirstPersonController>();
     }
 
     void Update()
