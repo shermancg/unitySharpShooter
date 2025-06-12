@@ -5,6 +5,7 @@ using UnityEngine;
 public class Weapon : MonoBehaviour
 {
     [SerializeField] int attackDamage = 1; // Damage dealt per shot
+    [SerializeField] ParticleSystem shootVFX;
     StarterAssetsInputs input;
 
     void Awake()
@@ -22,6 +23,11 @@ public class Weapon : MonoBehaviour
 
     void Shoot()
     {
+        if (shootVFX) // This is a null check, but shorthand with Unity, no need for "!null" in code to check
+        {
+            shootVFX.Play();
+        }
+
         RaycastHit hit;
         if (Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit, Mathf.Infinity))
         {
