@@ -4,9 +4,13 @@ using UnityEngine;
 
 public class Weapon : MonoBehaviour
 {
+    [SerializeField] Animator animator;
     [SerializeField] int attackDamage = 1; // Damage dealt per shot
     [SerializeField] ParticleSystem shootVFX;
+    [SerializeField] GameObject hitVFX; // Optional: VFX for hit effect
     StarterAssetsInputs input;
+
+    const string recoilAnim = "recoil";
 
     void Awake()
     {
@@ -23,14 +27,15 @@ public class Weapon : MonoBehaviour
 
     void Shoot()
     {
-        if (shootVFX) // This is a null check, but shorthand with Unity, no need for "!null" in code to check
-        {
-            shootVFX.Play();
-        }
+        shootVFX.Play();
+        animator.Play(recoilAnim, 0, 0f); // Play recoil animation
 
         RaycastHit hit;
         if (Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit, Mathf.Infinity))
         {
+            // Instantiate hitVFX at the collision point if assigned
+            Instantiate(hitVFX, hit.point, Quaternion.identity);
+
             if (hit.collider.TryGetComponent<EnemyHealth>(out var enemy))
             {
                 enemy.TakeDamage(attackDamage); // Deal damage to the enemy
